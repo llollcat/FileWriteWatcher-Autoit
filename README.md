@@ -1,5 +1,5 @@
 # FileWriteWatcher-Autoit
-Removable device file copying monitor example 
+Removable device file copying monitor example for Autoit
 # Usage
 * run script
 * insert removable stroage device
